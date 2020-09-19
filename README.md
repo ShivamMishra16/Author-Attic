@@ -1,2 +1,5 @@
 # Author-Attic
-A modern admin dashboard consisting of various UI components such as : • Navbar • Modal. • Cards. • Tables • Progress Bar • Task list • Activities • Status • Quick post • Messages
+•Header (logo & animated image)
+•Animated gallery (JQuery lightbox)
+•Sections of famous writers, books ..
+•Popular books this week section consisting of cards & video background
